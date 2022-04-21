@@ -1,0 +1,29 @@
+1. kNN, Decision Tree, Random Forest, Neural Network
+2. Proper exploration, visualization
+3. Compare between performance
+4. Generalization, Overfitting and Under fitting Checks
+-------------------------------------------------------------
+
+
+
+C1. Asteriod threat prediction: https://www.kaggle.com/datasets/sayansh001/asteroids-threat-prediction?select=Train_.csv
+
+C2. Customer Segmentation Classification: https://www.kaggle.com/datasets/kaushiksuresh147/customer-segmentation
+
+C3. Patient Survival Prediction: https://www.kaggle.com/datasets/mitishaagarwal/patient
+
+C4. Credit Card Classification: https://www.kaggle.com/datasets/samuelcortinhas/credit-card-classification-clean-data
+
+C5. Heart Disease Dataset: https://www.kaggle.com/datasets/yasserh/heart-disease-dataset
+
+C6. Auction Data: https://www.kaggle.com/datasets/dhinaharp/auction-dataset
+
+C7. Zoo Animal Classification: https://www.kaggle.com/datasets/uciml/zoo-animal-classification
+
+C8. Drug Consumptions: https://www.kaggle.com/datasets/obeykhadija/drug-consumptions-uci
+
+C9. Gender Classification: https://www.kaggle.com/datasets/hb20007/gender-classification
+
+C10. Income Classification: https://www.kaggle.com/datasets/lodetomasi1995/income-classification
+
+C11: Cyberattack dataset: https://www.kaggle.com/datasets/slashtea/kdd-cyberattack
